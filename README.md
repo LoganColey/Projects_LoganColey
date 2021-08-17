@@ -1,2 +1,2 @@
 # Projects_LoganColey
-This isnmy Charity website Project for BCCA
+This is my Charity website Project for BCCA
