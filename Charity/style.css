@@ -1,3 +1,7 @@
+body {background: url(images/charithy_background.png);
+    background-size: cover;
+    background-repeat: no-repeat;}
+
 
 
 .center_txt {
@@ -5,12 +9,13 @@
     width: 50%;
     border: 3px solid  black;
     padding: 10px;
-    text-align: center;}
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;}
 
 .paragraph {
-    font-size: 14px;
+    font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
-
+    
 
 
 }
