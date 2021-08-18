@@ -19,6 +19,20 @@ body {background: url(images/charithy_background.png);
 
 
 }
+ul {
+    text-align: right;
+    list-style: none;
+    margin-top: -35px;
+}
+
+ul li {
+    display: inline-block;
+    padding-left: 10px;
+}
+
+ul li:last-child{
+    padding-right: 10px;
+}
 
 .center_pic {
     display: block;
